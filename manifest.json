@@ -3,9 +3,9 @@
     "short_name": "TeleTransit",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#FAF6F1",
+    "background_color": "#141F30",
     "theme_color": "#203450",
-    "description": "A new Flutter project.",
+    "description": "TeleTransit: find cargo transport across Tanzania.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
